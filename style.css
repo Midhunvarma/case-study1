@@ -1,0 +1,42 @@
+
+html,
+body {
+  height: 95%;
+}
+
+.login{
+    float:left;
+    border: 2px solid whitesmoke;
+    background-color: gray;   
+    height: 45em;
+    margin-top: 60%;
+    padding: 50px;  
+    
+}
+
+
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 15%;
+  
+  padding: 7px;
+  margin: 20px 2px ; 
+  background:silver;
+  font-size: x-large;
+  border: 2px solid whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+
+
+
+
+
+
+
+
+
+  
